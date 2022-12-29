@@ -1,25 +1,24 @@
-/* #MyCarousel{
-  width: 1200px;
-  height: 768px;
-}*/
+
+/*
 .bg-img1 {
   background-color: #000;
   background-size: cover;
-  background-image: url("pngtree-1159556.png");
+  background-image: url("images/pngtree-1159556.png");
   height: 300px;
 }
 .bg-img2 {
   background-color: #000;
   background-size: cover;
-  background-image: url("Pngtree-582421.jpg");
+  background-image: url("images/Pngtree-582421.jpg");
   height: 300px;
 }
 .bg-img3 {
   background-color: #000;
   background-size: cover;
-  background-image: url(M-unsplash.jpg);
+  background-image: url(images/M-unsplash.jpg);
   height: 300px;
 }
+*/
 
 /* Footer*/
 #footer{
